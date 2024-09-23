@@ -13,3 +13,6 @@ You can view that structure using Obsidian (or any other similar tool) as a grap
 ```
 ap2md.sh <curriculum>.pdf
 ```
+
+## Dependencies
+Bash, pdfgrep, pdftotext
