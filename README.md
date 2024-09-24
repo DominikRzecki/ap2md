@@ -11,7 +11,7 @@ You can view that structure using Obsidian (or any other similar tool) as a grap
 
 ## Usage
 ```
-ap2md.sh <curriculum>.pdf
+bash ap2md.sh <curriculum>.pdf
 ```
 
 ## Dependencies
